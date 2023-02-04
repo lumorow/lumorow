@@ -9,7 +9,7 @@
 # Languages and Tools
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-![Golang](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=E9D54D)
+![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=E9D54D)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
