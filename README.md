@@ -3,17 +3,11 @@
 
 ## About me
 ## I'm a begginer Golang Software developer.
-- 🔭 I’m currently working on some intresting project
-- 🌱 I’m currently learning Java
+- ♎ 23 y.o
+- 🔭 Master of NSTU
+- 👺 Japan lover
 
-# Languages and Tools
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-
-![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=E9D54D)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
-
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=СD4A4A)
+![Golang]([https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=E9D54D](https://w7.pngwing.com/pngs/586/308/png-transparent-go-programming-language-computer-programming-kubernetes-github-orange-cartoon-fictional-character.png))
 
 ## Links
 
