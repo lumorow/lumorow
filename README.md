@@ -12,9 +12,9 @@
 
 
 ## Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumorow&theme=tokyonight)![gopher-dance-long-3x-sign](https://user-images.githubusercontent.com/71555067/217054243-0253fb0c-a9a0-4985-af04-2332d1a1478d.gif)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumorow&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lumorow&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumorow&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lumorow&theme=dracula) ![gopher-dance-long-3x-sign](https://user-images.githubusercontent.com/71555067/217054243-0253fb0c-a9a0-4985-af04-2332d1a1478d.gif)
 
 
 
