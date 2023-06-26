@@ -1,21 +1,17 @@
-## About me
 <h1 align="center">Hi there, I'm <a href="https://github.com/lumorow/" target="_blank">Luca</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&pause=1000&lines=I'm+a+begginer+Golang+Software+developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&pause=1000&lines=I'm+a+Golang+Software+developer" alt="Typing SVG" /></a></h3>
            
-- ♎ 23 y.o 
-
-- 🔭 Master of NSTU
-- 👺 Japan lover
-
-
-## Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumorow&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lumorow&theme=dracula) ![gopher-dance-long-3x-sign](https://user-images.githubusercontent.com/71555067/217054243-0253fb0c-a9a0-4985-af04-2332d1a1478d.gif)
-
-
-
+<h3 align="center">🛠️ Languages and Tools</h3>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;           
+</div>
 
 ## Links
 
