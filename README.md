@@ -17,4 +17,4 @@
 
 ## Contact
 
-[![Telegram](https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg)](https://t.me/lumorow)
+[![Telegram](https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg)](https://t.me/lumorow)
