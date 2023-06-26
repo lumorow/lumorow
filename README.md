@@ -8,8 +8,6 @@
 - 🔭 Master of NSTU
 - 👺 Japan lover
 
-![Picture5-1024x576](https://user-images.githubusercontent.com/71555067/217040676-d933b078-62a1-4d60-ad6c-ddbf608721d8.png)
-
 
 ## Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumorow&theme=tokyonight)
