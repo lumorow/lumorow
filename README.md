@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/lumorow/" target="_blank">Luca</a> 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caprasimo&pause=500&width=435&lines=I'm+a+Golang+Software+developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caprasimo&pause=500&width=335&lines=I'm+a+Golang+Software+developer" alt="Typing SVG" /></a></h3>
            
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
@@ -16,5 +16,5 @@
 </div>
 
 ## Contact
-<h3><a href="https://git.io/typing-svg"><img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;</a></h3>
+<h3><a href="https://t.me/lumorow"><img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;</a></h3>
 
