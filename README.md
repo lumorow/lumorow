@@ -16,5 +16,5 @@
 </div>
 
 ## Contact
+<h3><a href="https://git.io/typing-svg"><img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;</a></h3>
 
-[![Telegram](https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg)](https://t.me/lumorow)
