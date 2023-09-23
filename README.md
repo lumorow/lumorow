@@ -14,6 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
-## Contact
-<h3><a href="https://t.me/lumorow"><img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;</a></h3>
-
+<h3 align="center">Contact
+<h3 align="center"><a href="https://t.me/lumorow"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Telegram_black.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;</a><a href="https://vk.com/lumorow"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/VK_black.svg" title="VK" alt="VK" width="40" height="40"/>&nbsp;</a><a href="lukazhovtovski@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Gmail_black.svg" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;</a></h3>
+<h3 align="center"><a href="https://vk.com/lumorow"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/VK_black.svg" title="VK" 
